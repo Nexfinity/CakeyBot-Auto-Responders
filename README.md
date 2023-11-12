@@ -4,7 +4,7 @@ This repository contains several examples that you can implement using Cakey Bot
 # Add your own examples
 Think you have an cool auto responder? Want to share your creations? Feel free to create a PR to add your awesome auto responder to this repo.
 
-Note: By adding your auto responder to this repo you are authoring other users to use and modify your example however they want in their servers. 
+Note: By adding your auto responder to this repo you are authorizing other users to use and modify your example however they want in their servers. 
 This also means they can "remix" your command with significant changes and add it to this repo as well.
 
 # Credits & Contributions
