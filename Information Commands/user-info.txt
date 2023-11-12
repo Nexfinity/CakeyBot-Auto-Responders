@@ -1,0 +1,11 @@
+**1. User ID:** `{user.id}`
+
+**2. Username:** `{user.username}`
+
+**3. Nickname:** `{user.nickname}`
+
+**4. Avatar URL:** `{user.avatar}`
+
+**5. Account Creation Date:** `{user.createdAt}`
+
+**6. Joined Server On:** `{user.joinedAt}`

@@ -1,0 +1,7 @@
+Your suggestion has been recorded, {user}! Check the #suggestions channel to see your suggestion and vote on others!
+{respond:#12345678901234567890} 
+**New Suggestion by `{user.mention}`** *(User ID: `{user.id}`)* **in `{channel.name}`** *(Channel ID: `{channel.id}`)*
+
+```
+$1+
+```

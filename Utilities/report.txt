@@ -1,0 +1,8 @@
+{delete} 
+{respond:#12345678901234567890} 
+{&Staff} A report has been sent! 
+**TIME:** {date}, {datetime12}
+**CHANNEL:** {channel} 
+**REPORTER:** {user.mention} 
+**REPORTED:** $1 
+**REASON:** $2+

@@ -1,0 +1,2 @@
+{choose:typeracer.com;coin toss;roulette;insults}
+{user.mention} has challeged $1 to a deathmatch! The trial will be {choice}! Good luck!
